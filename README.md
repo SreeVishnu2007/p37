@@ -1,1 +1,1 @@
-# p37
+# infinite-runner-c37
